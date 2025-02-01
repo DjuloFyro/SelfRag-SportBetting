@@ -1,0 +1,9 @@
+Crawl4AI==0.4.*
+pydantic==2.10.*
+langchain==0.3.*
+langchain-openai==0.3.*
+langchain-community==0.3.*
+langchain-huggingface==0.1.*
+langgraph==0.2.*
+sentence-transformers==3.4.*
+faiss-cpu==1.10.*
